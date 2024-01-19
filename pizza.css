@@ -1,0 +1,33 @@
+.navbar{
+    background-color: rgb(177, 7, 7);
+    height: 80px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+.name{
+    font-size: 30px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+.footer{
+    background-color: rgb(177, 7, 7);
+    height: 80px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
